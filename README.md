@@ -5,3 +5,11 @@ This is my first repository
 #测试
 测试
 <a href="http://www.baidu.com">链接</a>
+## 代码
+```
+<a href=''>aaa</a>
+```
+# 括号
+(http://www.baidu.com)
+# 中括号
+[Good](http://www.baidu.cm)
