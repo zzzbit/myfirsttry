@@ -10,6 +10,6 @@ This is my first repository
 <a href=''>aaa</a>
 ```
 # 括号
-(http://www.baidu.com)
+[括号](http://www.baidu.com)
 # 中括号
-[Good](http://www.baidu.cm)
+[Good](http://www.baidu.com)
